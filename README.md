@@ -5,7 +5,7 @@
 
 <!-- visit count -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=q-13t&label=Profile%20views&color=19e6e6&style=flat-square" alt="q-13t" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=q-13t&label=Profile%20views&color=19e6e6&style=flat-square" alt="q-13t" /> </p> -->
 
 <!-- profile trophies -->
 
