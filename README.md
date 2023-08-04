@@ -12,8 +12,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=q-13t&no-bg=true&theme=discord" alt="q-13t" /></a> </p>
 
 <!-- Light Description -->
-- 🔭 I’m Currently Working **On Solving LeetCode Problems**
-- 🌱 I’m Currently Learning **To Write Clean, Optimized And Lightweight Code**
+- 🔭 I’m Currently Working **Convo**
+- 🌱 I’m Currently Learning **C++ GUI Interfacess**
 - 👨‍💻 All Of My Projects Are Available At [My Public Github Repositories](https://github.com/q-13t?tab=repositories&q=&type=public&language=&sort=)
 - 📫 How To Reach Me **vdavybidaprivate@gmail.com**
 
